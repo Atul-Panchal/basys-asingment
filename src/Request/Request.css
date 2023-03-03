@@ -1,0 +1,38 @@
+.request-body{
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between;
+    height: auto;
+}
+
+.user-bar{
+    width: 100%;
+    height: 4rem; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10px;
+    }
+.user-name{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+}
+.warning{
+    padding: 0px;
+    margin: 0px;
+}
+.name{
+    padding: 0px;
+    margin: 4px;
+}
+
+.manage-request-bar{
+    height: 20px;
+    padding: 3px; 
+    margin-top: 10px;
+}
+.pending-section{
+    padding: 3px; 
+    margin-top: 10px;
+}
